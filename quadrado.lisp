@@ -1,6 +1,5 @@
-(defun quadrado(x)
-	(* x x)
-)
+(defun quadrado (x)
+  (* x x))
 
-(quadrado 3)
-(print(quadrado 3))
+(setf x (read))
+(print (quadrado x))
