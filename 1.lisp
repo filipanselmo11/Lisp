@@ -5,3 +5,5 @@
 )
 
 (print(f '(a b c)))
+;;(setf lista'(read))
+;;(print(f(lista)))
